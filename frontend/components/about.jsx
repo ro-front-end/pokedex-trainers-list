@@ -8,7 +8,7 @@ export default function About() {
 
         <p className="text-lg leading-relaxed text-blue-50">
           This app is designed to manage Pokémon trainers, their badges, and
-          their contact info. It's a fullstack project to showcase CRUD
+          their contact info. It&apos;s a fullstack project to showcase CRUD
           operations, authentication, and CSV/PDF export features.
         </p>
 
